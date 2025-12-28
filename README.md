@@ -1,8 +1,5 @@
 # Rohan Shrestha
 
-Data Analytics & Engineering Enthusiast  
-Monroe, LA
-
 ## About Me
 I am a data analytics and engineering professional with hands-on experience building data pipelines, dashboards, and analytics workflows. I enjoy transforming raw data into meaningful insights that support decision-making and improve operational efficiency.
 
