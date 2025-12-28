@@ -1,16 +1,27 @@
-## Hi there 👋
+# Rohan Shrestha
 
-<!--
-**sthar2820/sthar2820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics & Engineering Enthusiast  
+Monroe, LA
 
-Here are some ideas to get you started:
+## About Me
+I am a data analytics and engineering professional with hands-on experience building data pipelines, dashboards, and analytics workflows. I enjoy transforming raw data into meaningful insights that support decision-making and improve operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- **Data Analysis & Modeling:** Python, SQL, Excel, Analytics-Ready Data Models  
+- **Data Engineering & Automation:** ETL Pipelines, Databricks, Power Automate  
+- **Visualization & Reporting:** Power BI, Power Query, Interactive Dashboards  
+- **Cloud & Tools:** Azure, GCP, Git/GitHub  
+
+
+## Currently Exploring
+- Advanced data modeling techniques  
+- Scalable analytics architectures  
+- Cloud-based data engineering workflows  
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/your-profile  
+Email: your@email.com
