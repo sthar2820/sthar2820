@@ -15,13 +15,6 @@ I am a data analytics and engineering professional with hands-on experience buil
 - **Cloud & Tools:** Azure, GCP, Git/GitHub  
 
 
-## Currently Exploring
-- Advanced data modeling techniques  
-- Scalable analytics architectures  
-- Cloud-based data engineering workflows  
-
----
-
 ## Contact
 LinkedIn: https://www.linkedin.com/in/your-profile  
 Email: your@email.com
