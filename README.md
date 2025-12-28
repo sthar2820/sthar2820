@@ -16,5 +16,5 @@ I am a data analytics and engineering professional with hands-on experience buil
 
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/your-profile  
-Email: your@email.com
+LinkedIn: https://www.linkedin.com/in/shrestharo2002/ 
+Email: sthar2820@gmail.com
